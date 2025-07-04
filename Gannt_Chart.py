@@ -3,12 +3,7 @@ import matplotlib.patches as mpatches
 
 # Step 1: Manually feed your process execution intervals from C++ output
 process_intervals = {
-    0: [(0, 2), (6, 8)],
-    1: [(2, 4), (11, 12)],
-    2: [(4, 6), (14, 16), (18, 19)],
-    3: [(8, 10)],
-    4: [(10, 11)],
-    5: [(12, 14), (16, 18)]
+# feed your ouput here .
 }
 
 # Step 2: Plotting the Gantt chart
